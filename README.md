@@ -1,7 +1,58 @@
 ## Hi there 👋
 
 <!--
-**Coder-PiyushShukla/Coder-PiyushShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**C<!-- PROFILE README -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Piyush;Full+Stack+Web+Developer+💻;Open+Source+Enthusiast+🌍;Always+Learning+New+Things+🚀" alt="Typing SVG" />
+</h1>
+
+---
+
+### 🌟 About Me  
+- 🎓 IT Engineering student  
+- 💻 Passionate about **Web Development (MERN)**  
+- 🚀 Currently learning **React + Express + MongoDB**  
+- 🎯 Goal: **Become a Full Stack Developer**  
+- ✨ Fun fact: *I write code & rap lines too!* 🎤  
+
+---
+
+### ⚡ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,c,git,github" />
+</p>
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coder-PiyushShukla&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=coder-PiyushShukla&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
+</p>
+
+---
+
+### 🌐 Contribution Graph (3D Animation)  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/coder-PiyushShukla/coder-PiyushShukla/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+### 🚀 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/coder-PiyushShukla" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shuklaprinshi456@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+✨ *“Code. Create. Contribute. Repeat.”* ✨oder-PiyushShukla/Coder-PiyushShukla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
