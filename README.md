@@ -25,20 +25,7 @@
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coder-PiyushShukla&show_icons=true&theme=radical" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=coder-PiyushShukla&theme=radical&hide_border=false" alt="GitHub Streak" height="180"/>
-</p>
 
----
-
-### 🌐 Contribution Graph (3D Animation)  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/coder-PiyushShukla/coder-PiyushShukla/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
----
 
 ### 🚀 Connect With Me  
 <p align="center">
